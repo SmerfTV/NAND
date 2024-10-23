@@ -2,7 +2,7 @@
 This project is an implementation of dynamically loadable C library for creating and managing Boolean circuits composed of NAND gates.
 
 ## Original task
-[Original task in Polish](tbd)
+[Original task in Polish](https://github.com/SmerfTV/NAND/blob/main/task_desc.pdf)
 
 ## Full task description
 
