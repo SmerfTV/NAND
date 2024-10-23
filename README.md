@@ -1,4 +1,4 @@
-# PROJECT 1: NAND Gates
+NAND Gates
 This project is an implementation of dynamically loadable C library for creating and managing Boolean circuits composed of NAND gates.
 
 ## Original task
